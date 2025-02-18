@@ -12,10 +12,9 @@
     </a>
 </p>
 
-**I am very interested in AI Backend and Database development** 🤖💻 **but above all, what I love the most is still Minecraft** 🎮😂 **LOL**
+**I am very interested in AI Backend and Database development** 🤖💻
 
-**This is my passion** 🎮 👇🏻
+**This is me** 🎮 👇🏻
 <p align="center">
-    <img src="https://media1.tenor.com/m/BzuIEsEtwG0AAAAC/parkour-minecraft.gif" alt="Parkour Minecraft" style="float: left; margin-right: 10px;">
-    <img src="https://minecraft.wiki/images/thumb/Piston_%28U%29_JE3.gif/150px-Piston_%28U%29_JE3.gif?eca74" alt="Piston" style="float: right; margin-left: 10px;">
+    <img src="https://media4.giphy.com/media/YBIjKlgf9QLqSq1rqk/200.gif?cid=790b76118hxfyix3gvbbff4jm0z8f4t4yufuo928x6sh59u2&ep=v1_gifs_search&rid=200.gif&ct=g" alt="resistor" style="float: left; margin-right: 10px;">
 </p>
